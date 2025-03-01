@@ -100,4 +100,4 @@ If you find this project useful, feel free to **connect with me on LinkedIn** or
 
 ---
 
-📂 [**GitHub Repository**](https://github.com/yourusername/PakMart-Insights)  |  👨‍💻 [**LinkedIn Profile**](https://www.linkedin.com/in/madadallah-bhatti-9698b1217/)
+📂 [**GitHub Repository**](https://github.com/MadadAllah/PakMart-Insights)  |  👨‍💻 [**LinkedIn Profile**](https://www.linkedin.com/in/madadallah-bhatti-9698b1217/)
